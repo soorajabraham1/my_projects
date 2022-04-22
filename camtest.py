@@ -1,12 +1,3 @@
-import sys
-sys.path.append('/usr/lib/python3.6/dist-packages')
-sys.path.append('/usr/lib/python3.6/dist-packages/cv2/python-3.6')
-sys.path.append('/usr/local/lib/python3.6/dist-packages')
-sys.path.append('/usr/lib/python3/dist-packages')
-
-
-
-
 
 # MIT License
 # Copyright (c) 2019 JetsonHacks
