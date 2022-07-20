@@ -1,10 +1,4 @@
 
-# MIT License
-# Copyright (c) 2019 JetsonHacks
-# See license
-# Using a CSI camera (such as the Raspberry Pi Version 2) connected to a
-# NVIDIA Jetson Nano Developer Kit using OpenCV
-# Drivers for the camera and OpenCV are included in the base image
 
 import cv2
 
